@@ -1,3 +1,5 @@
+/* This is the class that defines the content of a cell on the grid
+ */
 #ifndef __SPRITE__
 #define __SPRITE__
 
