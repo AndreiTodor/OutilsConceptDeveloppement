@@ -1,3 +1,7 @@
+/*
+\author Andrei Todor
+\brief this class defines the grid and it's functions
+*/
 #include "Grid.hpp"
 #include "PluginService.hpp"
 #include "PluginManager.hpp"
